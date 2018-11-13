@@ -1,5 +1,6 @@
 #include<stdio.h>
- main()
+//just a comment
+main()
 {
       float n,arr[100],sum=0,output;
       scanf("%f",&n);
